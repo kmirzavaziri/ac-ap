@@ -1,2 +1,1 @@
-# ac-ap
-Using Ant Colony Algorithm to solve the Assignment Problem
+# Using Ant Colony Optimization Algorithm to solve the Assignment Problem
