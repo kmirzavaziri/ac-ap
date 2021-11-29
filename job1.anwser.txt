@@ -1,0 +1,3 @@
+Took: 0.00138 seconds
+Cost: 26
+Assignments: [3, 1, 2, 0]
